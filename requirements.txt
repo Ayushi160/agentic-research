@@ -6,3 +6,6 @@ pyautogui
 python-pptx
 playwright
 requests
+google-genai
+requests
+lxml
