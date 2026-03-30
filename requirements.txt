@@ -1,0 +1,8 @@
+openai
+google-generativeai
+crewai
+python-dotenv
+pyautogui
+python-pptx
+playwright
+requests
